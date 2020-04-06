@@ -23,8 +23,8 @@ Programación en C ,Clase 03  funciones
   -7 subir al repositorio WEB
 
   (git push)
-  cambiar mail para hacer el push=
-git config --global user.email "TUEMAIL"
+  /*cambiar mail para hacer el push:
+  git config --global user.email "TUEMAIL"*/
 
 
 
