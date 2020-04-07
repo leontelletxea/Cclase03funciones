@@ -1,6 +1,6 @@
 # Tellechea Leon
 # Tutorial Consola Git
-Programación en C ,Clase 03  funciones
+Programación en C, Clase 03  funciones
 
   -1 crear una carpeta
   
@@ -23,13 +23,14 @@ Programación en C ,Clase 03  funciones
   -7 subir al repositorio WEB
 
   (git push)
+
   /*cambiar mail para hacer el push:
   git config --global user.email "TUEMAIL"*/
 
 
 
 
-Resumen 
+ Resumen 
 
  clonar : git clone mi-repo
 
@@ -43,6 +44,6 @@ Resumen
  	2-git commit -m "el mensaje " (  toma instantanea del archivo/s )
 
 
-para subir :
+ para subir :
  	
  	3-git push 
