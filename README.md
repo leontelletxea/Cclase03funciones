@@ -1,5 +1,5 @@
 # Tellechea Leon
-# Tutorial Git
+# Tutorial Consola Git
 Programación en C ,Clase 03  funciones
 
   -1 crear una carpeta
